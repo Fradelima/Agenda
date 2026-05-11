@@ -1,0 +1,29 @@
+1)  criar o ambiente virtual
+
+python -m venv venv
+
+
+2) ativar o ambiente virtual 
+
+.\venv\Scripts\Activate.ps1
+
+
+3) instalar o django 
+
+pip install django
+
+
+4) criando um projeto no django 
+
+django-admin startproject project .
+
+
+5) executar o projeto
+
+python manage.py runserver   --  inicializar o projeto
+
+
+
+
+
+ 
